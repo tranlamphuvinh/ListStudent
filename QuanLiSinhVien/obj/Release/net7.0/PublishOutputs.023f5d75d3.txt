@@ -1,0 +1,5 @@
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien\QuanLiSinhVien\bin\Release\net7.0\publish\QuanLiSinhVien.exe
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien\QuanLiSinhVien\bin\Release\net7.0\publish\QuanLiSinhVien.dll
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien\QuanLiSinhVien\bin\Release\net7.0\publish\QuanLiSinhVien.deps.json
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien\QuanLiSinhVien\bin\Release\net7.0\publish\QuanLiSinhVien.runtimeconfig.json
+D:\Coding\C#\Console App\Object Oriented Programming\QuanLiSinhVien\QuanLiSinhVien\bin\Release\net7.0\publish\QuanLiSinhVien.pdb
